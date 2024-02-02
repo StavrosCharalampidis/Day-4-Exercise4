@@ -12,7 +12,7 @@ i = 22 - 12
 j = 12 * 2
 x = 12 % 12
 
-
+# Print The Variables
 print("i = ", i, ",j = ", j ,",x = ", x) 
 
 
